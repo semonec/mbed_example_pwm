@@ -1,0 +1,96 @@
+[
+    {
+        "module": "[fill]", 
+        "size": {
+            ".data": 8, 
+            ".bss": 15, 
+            ".text": 127
+        }
+    }, 
+    {
+        "module": "[lib]/c.a", 
+        "size": {
+            ".data": 2472, 
+            ".bss": 56, 
+            ".text": 26071
+        }
+    }, 
+    {
+        "module": "[lib]/gcc.a", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 3128
+        }
+    }, 
+    {
+        "module": "[lib]/misc", 
+        "size": {
+            ".data": 16, 
+            ".bss": 28, 
+            ".text": 236
+        }
+    }, 
+    {
+        "module": "[lib]/ublox-odin-w2-driver.a", 
+        "size": {
+            ".data": 0, 
+            ".bss": 1499, 
+            ".text": 4839
+        }
+    }, 
+    {
+        "module": "main.o", 
+        "size": {
+            ".data": 4, 
+            ".bss": 28, 
+            ".text": 360
+        }
+    }, 
+    {
+        "module": "mbed-os/features", 
+        "size": {
+            ".data": 0, 
+            ".bss": 12556, 
+            ".text": 44
+        }
+    }, 
+    {
+        "module": "mbed-os/hal", 
+        "size": {
+            ".data": 0, 
+            ".bss": 24, 
+            ".text": 734
+        }
+    }, 
+    {
+        "module": "mbed-os/platform", 
+        "size": {
+            ".data": 4, 
+            ".bss": 270, 
+            ".text": 1332
+        }
+    }, 
+    {
+        "module": "mbed-os/rtos", 
+        "size": {
+            ".data": 180, 
+            ".bss": 5988, 
+            ".text": 8845
+        }
+    }, 
+    {
+        "module": "mbed-os/targets", 
+        "size": {
+            ".data": 4, 
+            ".bss": 812, 
+            ".text": 11030
+        }
+    }, 
+    {
+        "summary": {
+            "static_ram": 23964, 
+            "total_flash": 59434
+        }
+    }
+]
